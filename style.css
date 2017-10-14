@@ -208,7 +208,7 @@ footer form input[type="text"] {
 footer form input[type="text"]:focus {
 	background-color: var(--background-alt);
 	border-bottom: 10px solid #60B48A;
-	color: #60B48A;
+	color: #212726;
 	outline: none;
 }
 footer form input[type="text"]:focus::-webkit-input-placeholder {
